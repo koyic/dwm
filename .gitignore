@@ -1,0 +1,5 @@
+# patch error files
+*.rej
+*.orig
+*.o
+dwm
